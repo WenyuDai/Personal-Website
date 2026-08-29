@@ -16,11 +16,10 @@ experiences = [
         endTime="Present",
         location="Canberra, ACT",
         bullets=[
-            "Conducted structured interactive Java assignment review sessions, typically managing 4 students per hour over multi-hour shifts.",
-            "Adapted communication and evaluation approach for students with varying English proficiency and programming backgrounds, simplifying phrasing and using alternative comprehension checks for language barriers while calibrating explanations to skill level, all while maintaining fairness and consistent assessment standards.",
-            "Collaborated closely with fellow tutors, demonstrating teamwork, resilience, and clear communication in a high-interaction academic environment.",
-            "Supported students in building programming confidence and problem-solving skills by delivering detailed feedback on assignments, guiding them on how to improve future work.",
-            "Helped design coding tasks, evaluation criteria, rubrics, and marking workflows for programming assignments and final projects."
+            "Helped design coding tasks, evaluation criteria, rubrics, and marking workflows for programming assignments and final projects.",
+            "Adapted communication and evaluation approaches for students with varying English proficiency and programming backgrounds, simplifying phrasing and using alternative comprehension checks while maintaining fairness and consistent assessment standards.",
+            "Supported students in building programming confidence and problem-solving skills by delivering detailed assignment feedback and guiding them on how to improve future work.",
+            "Collaborated closely with fellow tutors, demonstrating teamwork and clear communication in a high-interaction academic environment."
         ]
     ),
     Experience(

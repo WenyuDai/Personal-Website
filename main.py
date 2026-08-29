@@ -28,3 +28,7 @@ def root():
 def getExperiences():
     return experiences
 
+# check loading status
+@app.get("/health")
+def health():
+    return {"status": "ok"}
