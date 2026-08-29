@@ -36,7 +36,7 @@ experiences = [
             "Reduced manual credential handling and improved deployment repeatability by migrating configuration credentials to a secure secrets vault and automating secure retrieval, encryption, and injection of secrets into application configuration files." ,
             "Wrote Python scripts to automate password rotation across deployed application config files on the server, encrypting existing plaintext credentials as part of the secrets vault migration.",
             "Migrated an enterprise-level Java application from IBM WebSphere to Apache and Tomcat, managing 20+ tickets concurrently to coordinate database migration and server setup, and handling configuration file and proxy adjustments on new servers.",
-            "Produced clear user and technical guides adopted by teams in Singapore and Switzerland, improving knowledge transfer, support efficiency, and consistency across distributed teams."
+            "Produced clear user and technical guides adopted by teams in Singapore and Switzerland, improving knowledge transfer, support efficiency, and consistency across distributed teams.",
             "Built form components, including dynamic dropdowns, for the KYC module of a blockchain wallet application, fetching dropdown options and persisting form submissions via a FastAPI backend."
         ]
     ),
