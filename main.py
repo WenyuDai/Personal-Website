@@ -3,6 +3,7 @@ from starlette.middleware.cors import CORSMiddleware
 
 from experiences import Experience, experiences
 from portfolio import Portfolio, portfolio
+from researches import Research, researches
 
 app = FastAPI()
 
@@ -27,6 +28,10 @@ def root():
 @app.get("/experiences", response_model=list[Experience])
 def getExperiences():
     return experiences
+
+@app.get("/researches", response_model=list[Research])
+def getResearches():
+    return researches
 
 # check loading status
 @app.get("/health")
