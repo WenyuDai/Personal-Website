@@ -40,4 +40,14 @@ experiences = [
             "Built form components, including dynamic dropdowns, for the KYC module of a blockchain wallet application, fetching dropdown options and persisting form submissions via a FastAPI backend."
         ]
     ),
+    Experience(
+        companyName="CYBERMED HEALTH INC.",
+        jobTitle="Software Engineer Intern",
+        startTime="August 2018",
+        endTime="May 2019",
+        location="East Brunswick, NJ, USA",
+        bullets=[
+            "Redesigned the company website with a UX designer and contributed to iOS development for a virtual healthcare app used by 27,000+ patients and 500+ doctors."
+        ]
+    ),
 ]
